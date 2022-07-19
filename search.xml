@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>Markdown入门</title>
+      <link href="/archives/6cd73623.html"/>
+      <url>/archives/6cd73623.html</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>这是一段引用 </p></blockquote><p>有序列表：</p><p>​    1.……</p><p>​    2 ……</p><p>​    3 ……</p><p>无序列表：</p><ul><li>春</li><li>夏</li><li>秋</li><li>冬</li></ul><p>任务列表：</p><ul><li><input disabled type="checkbox"> </li><li><input disabled type="checkbox"> </li><li><input checked disabled type="checkbox"> </li></ul><p>代码块：</p><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="type">int</span> <span class="title function_">main</span><span class="params">()</span> &#123;</span><br><span class="line">    <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p>数学公式：<br>$$<br>\frac{\partial f}{\partial x} &#x3D; 2\sqrt{a}x<br>$$<br>表格：</p><table><thead><tr><th>姓名</th><th align="center">年龄</th><th align="right">成绩</th></tr></thead><tbody><tr><td>张三</td><td align="center">19</td><td align="right">99</td></tr></tbody></table><p>脚注：</p><p>一键三连<a href="%E7%82%B9%E8%B5%9E%E3%80%81%E6%8A%95%E5%B8%81%E3%80%81%E6%94%B6%E8%97%8F">^1</a></p><p>横线</p><hr><p><a href="https://luyuchen04.github.io/" title="我的博客">DaCat - 烟火星辰 </a></p><p>请参考<a href="#%E5%B0%8F%E6%8A%80%E5%B7%A7">小技巧</a></p><p>博客URL:<a href="https://luyuchen04.github.io/">https://luyuchen04.github.io</a></p><p><img src="/archives/6cd73623.htm/wallhaven.png" alt="图片"></p><p><em>斜体</em></p><p><strong>加粗</strong></p><p>行内代码<code>printf()</code>          行内数学公式$\theta&#x3D;x^2$,</p><p><u>下划线</u>                &#x3D;&#x3D;这是一段高亮文字&#x3D;&#x3D;</p><p>表情:smile_cat:            下标：H<del>2</del>O      上标: X^2^</p><h1 id="小技巧"><a href="#小技巧" class="headerlink" title="小技巧"></a>小技巧</h1><ol><li>要结束当前任务时按2次 Enter</li></ol>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>代码演示</title>
       <link href="/archives/be82d226.html"/>
       <url>/archives/be82d226.html</url>
